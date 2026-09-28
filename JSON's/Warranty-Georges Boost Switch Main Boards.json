@@ -1,0 +1,73 @@
+{
+    "document_type":  "Credit/Return Request Form (CRRF)",
+    "document_revision":  "COL-FH20-016 rev. 5.0 2025-04",
+    "distributor_name":  "Metro COL",
+    "submitted_by":  "Dan Demarest",
+    "shop_name":  "George\u0027s Auto Body Briarcliff Manor, NY",
+    "submission_date":  "09/25/2026",
+    "request_reason":  "(W) Warranty",
+    "install_date":  "6/29/2022",
+    "ready_for_pickup":  true,
+    "pickup_details":  {
+                           "size":  "18x12x12",
+                           "weight":  "25lbs"
+                       },
+    "ship_to_details":  {
+                            "company":  "Metropolitan Car-o-liner",
+                            "attention":  "Dan D",
+                            "phone":  "201-934-9787",
+                            "address":  "300 Rt 17 South Suite F",
+                            "city":  "Mahwah",
+                            "state":  "NJ",
+                            "postal_code":  "07430",
+                            "email":  "DanD@metrocol.com"
+                        },
+    "original_order_invoice_or_po":  "PO:5522  Inv:ARV/52977542",
+    "system_item_number":  "NA-90573",
+    "system_type_or_model":  "CMI300",
+    "system_serial_number":  "21110448",
+    "items":  [
+                  {
+                      "reason_code":  "W",
+                      "item_number":  "90649",
+                      "quantity":  1,
+                      "description":  "Boost Module",
+                      "issue":  "Failed",
+                      "requested_resolution":  "**Replace"
+                  },
+                  {
+                      "reason_code":  "W",
+                      "item_number":  "51767",
+                      "quantity":  1,
+                      "description":  "Main Control PCB",
+                      "issue":  "Failed",
+                      "requested_resolution":  "*Credit"
+                  },
+                  {
+                      "reason_code":  "W",
+                      "item_number":  "51132",
+                      "quantity":  1,
+                      "description":  "Power Unit/Switch Module",
+                      "issue":  "Failed",
+                      "requested_resolution":  "**Replace"
+                  }
+              ],
+    "distributor_comments":  "Welder popped and would not power on. Diag with Jeff Coppes to determine boost module, main board, switch module failures. See attached. Requesting goodwill",
+    "ticket_number":  "453068",
+    "extraction_notes":  [
+                             "Corrected extraction: populated values are stored in embedded PDF form fields and were missed in the previous extraction.",
+                             "Shop Name \u0026 Location field: George\u0027s Auto Body Briarcliff Manor, NY.",
+                             "Pickup address is blank; Same as Ship To has no stored selection. Return indicator and warehouse remain at Select.",
+                             "The revision also appears as COL-FH20-016 rev. 5 2025-04 in the footer.",
+                             "Shop name and location share one PDF field and could not be separated using the address city/state. Review shop_name and location; the full field is preserved in shop_name.",
+                             "PDF ticket field was not updated: Unable to cast object of type \u0027PdfSharp.Pdf.Advanced.PdfReference\u0027 to type \u0027PdfSharp.Pdf.AcroForms.PdfAcroField\u0027."
+                         ],
+    "source_pdf":  "Source PDFs/627D666656E439F0850C4A97F02D335711510B6F52411F62EEEC3482BB41CBAE/Warranty-Georges Boost Switch Main Boards.pdf",
+    "source_pdf_name":  "Warranty-Georges Boost Switch Main Boards.pdf",
+    "ticket_pdf":  null,
+    "tags":  [
+
+             ],
+    "product":  "Car-O-Liner",
+    "group":  "Car-O-Liner Service"
+}

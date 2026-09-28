@@ -1,0 +1,13 @@
+﻿{
+    "Version":  1,
+    "CompletedUtc":  "2026-09-28T17:25:05.0039493Z",
+    "Files":  [
+                  "PortalDropdownCoordinator-ScrollbarV4.dll",
+                  "PortalControls.dll",
+                  "PortalNativeMethods.dll",
+                  "PortalPropertyEditor.dll",
+                  "PortalWindowDrag.dll",
+                  "SmoothPortalButton-C767C5C28D09.dll",
+                  "SmoothPortalFields-55D11D1321A9.dll"
+              ]
+}

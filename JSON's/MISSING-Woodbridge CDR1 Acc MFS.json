@@ -1,0 +1,70 @@
+{
+  "document_type": "Credit/Return Request Form (CRRF)",
+  "document_revision": "COL-FH20-016 rev. 5.0 2025-04",
+  "distributor_name": "Metropolitan COL",
+  "submitted_by": "Dan Demarest",
+  "shop_name": "Woodbridge Auto Body of Union Rahway, NJ",
+  "location": null,
+  "submission_date": "09/25/2026",
+  "request_reason": "(M) Missing from Shipment",
+  "install_date": null,
+  "ready_for_pickup": false,
+  "same_as_ship_to": null,
+  "pickup_details": {
+    "company": null,
+    "attention": null,
+    "phone": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "postal_code": null,
+    "email": null,
+    "size": null,
+    "weight": null
+  },
+  "ship_to_details": {
+    "company": "Metropolitan Car-o-liner",
+    "attention": "Dan D",
+    "phone": "201-934-9787",
+    "address": "300 Rt 17 South Suite F",
+    "city": "Mahwah",
+    "state": "NJ",
+    "postal_code": "07430",
+    "email": "DanD@metrocol.com",
+    "size": null,
+    "weight": null
+  },
+  "original_order_invoice_or_po": "PO:7064  Inv:ARV/67649655",
+  "system_item_number": "50710",
+  "system_type_or_model": "CDR1",
+  "system_serial_number": "0410925",
+  "items": [
+    {
+      "reason_code": "M",
+      "item_number": "90806",
+      "parent_or_kit_item_number": null,
+      "quantity": 1,
+      "description": "Cordless Hot Glue Gun",
+      "issue": "Missing, received 220v corded",
+      "requested_resolution": "**Replace",
+      "determination": null,
+      "return_indicator": null,
+      "warehouse": null
+    }
+  ],
+  "distributor_comments": "Missing from new CDR1 Kit. Owed to customer",
+  "reviewed_by": null,
+  "comments": null,
+  "replacement_order_number": null,
+  "ticket_number": "453069",
+  "extraction_notes": [
+    "Corrected extraction: populated values are stored in embedded PDF form fields and were missed in the previous extraction.",
+    "Shop Name & Location field: Woodbridge Auto Body of Union Rahway, NJ.",
+    "Pickup address and install date are blank; Same as Ship To has no stored selection. Return indicator and warehouse remain at Select.",
+    "The revision also appears as COL-FH20-016 rev. 5 2025-04 in the footer.",
+    "Shop name and location share one PDF field and could not be separated using the address city/state. Review shop_name and location; the full field is preserved in shop_name.",
+    "PDF ticket field was not updated: Unable to cast object of type 'PdfSharp.Pdf.Advanced.PdfReference' to type 'PdfSharp.Pdf.AcroForms.PdfAcroField'."
+  ],
+  "source_pdf": "Source PDFs/0B3BDFCF648067F34F45B285641D8CD88826164E87300801DCA0C60C9D5055DB/MISSING-Woodbridge CDR1 Acc MFS.pdf",
+  "source_pdf_name": "MISSING-Woodbridge CDR1 Acc MFS.pdf"
+}

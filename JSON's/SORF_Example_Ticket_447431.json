@@ -1,0 +1,72 @@
+{
+    "document_type":  "Service Order Request Form (SORF)",
+    "document_revision":  null,
+    "distributor_name":  "Precision For Collision, Inc.",
+    "submitted_by":  "Maggi Zinn / Nathan Cross",
+    "shop_name":  "Hustead\u0027s Auto Body",
+    "location":  "Concord, CA",
+    "submission_date":  "2026-09-14",
+    "request_reason":  "Slide Rental Needed",
+    "install_date":  "2020-01-21",
+    "ready_for_pickup":  true,
+    "same_as_ship_to":  true,
+    "pickup_details":  {
+                           "company":  "Precision For Collision, Inc.",
+                           "attention":  "Maggi Zinn / Nathan Cross",
+                           "phone":  "(916) 677-2885",
+                           "address":  "8845 Washington Blvd., Suite 170",
+                           "city":  "Roseville",
+                           "state":  "CA",
+                           "postal_code":  "95678",
+                           "email":  "mzinn@pfcequipment.com",
+                           "size":  "64\" x 09\" x 19\"",
+                           "weight":  "74 Lbs"
+                       },
+    "ship_to_details":  {
+                            "company":  "Precision For Collision, Inc.",
+                            "attention":  "Maggi Zinn / Nathan Cross",
+                            "phone":  "(916) 677-2885",
+                            "address":  "8845 Washington Blvd., Suite 170",
+                            "city":  "Roseville",
+                            "state":  "CA",
+                            "postal_code":  "95678",
+                            "email":  null,
+                            "size":  null,
+                            "weight":  null
+                        },
+    "original_order_invoice_or_po":  null,
+    "system_item_number":  "CAR46732",
+    "system_type_or_model":  "",
+    "system_serial_number":  "102763",
+    "items":  [
+                  {
+                      "reason_code":  null,
+                      "item_number":  "CAR36424S",
+                      "parent_or_kit_item_number":  "CAR46732",
+                      "quantity":  1,
+                      "description":  "Vision2-X2 Measuring Slide",
+                      "issue":  "Measuring as much as 8mm off. CAR35367 computer board II already replaced by PFC. Needs refurbish/recalibration.",
+                      "requested_resolution":  "Slide Rental Needed",
+                      "determination":  null,
+                      "return_indicator":  true,
+                      "warehouse":  null
+                  }
+              ],
+    "distributor_comments":  "Measuring as much as 8mm off. CAR35367 computer board II already replaced by PFC. Needs refurbish/recalibration.",
+    "reviewed_by":  "",
+    "comments":  null,
+    "replacement_order_number":  null,
+    "ticket_number":  "447431",
+    "extraction_notes":  [
+                             "COL Service Order Number 1WR011919 captured but no canonical field defined in SORF FD properties.",
+                             "Document revision not visible.",
+                             "Request reason inferred from checked Slide Rental Needed box.",
+                             "Source: SORF Example Ticket 447431 image. Property mapping validated against SORF FD Properties.pdf."
+                         ],
+    "tags":  [
+                 "Automated"
+             ],
+    "group":  "Car-O-Liner Service",
+    "col_department":  "",
+    "product":  "Car-O-Liner"
+}

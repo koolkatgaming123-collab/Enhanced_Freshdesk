@@ -1,0 +1,60 @@
+{
+    "document_type":  "Service Order Request Form (SORF)",
+    "document_revision":  "COL-F20-011 Rev 5 2025-04",
+    "distributor_name":  "Curran Collision Equipment West",
+    "submitted_by":  "Briana Curran",
+    "distributor_contact_phone":  "972-412-5147",
+    "email":  "bstory@car-o-linersw.com",
+    "shop_name":  "Caliber Collision 0555",
+    "submission_date":  "2026-09-23",
+    "ticket_number":  "451938",
+    "request_reason":  "Slide Rental Needed",
+    "install_date":  "2015-04-21",
+    "ready_for_pickup":  false,
+    "confirm_before_issuing":  false,
+    "pickup_details":  {
+                           "company":  "Caliber Collision 0555",
+                           "attention":  "Zac Madsen",
+                           "phone":  "281-651-1118",
+                           "address":  "3828 Louetta Road",
+                           "city":  "Spring",
+                           "state":  "TX",
+                           "postal_code":  "77388"
+                       },
+    "ship_to_details":  {
+                            "company":  "Car-O-Liner Southwest",
+                            "attention":  "Briana Curran",
+                            "phone":  "972-412-5147",
+                            "address":  "3601 Executive Blvd",
+                            "city":  "Mesquite",
+                            "state":  "TX",
+                            "postal_code":  "75149"
+                        },
+    "collect_shipping":  false,
+    "carrier":  "Truck Shipment",
+    "system_item_number":  "36424",
+    "system_serial_number":  "109174",
+    "items":  [
+                  {
+                      "item_number":  "36424",
+                      "parent_or_kit_item_number":  "36424",
+                      "description":  "X2 slide with HMP",
+                      "issue":  "G2 sensor will not clear\r\r**Rental was picked up from Caliber 0620 (ticket 410947) and will be delivered to this center on 09/25/26.**",
+                      "requested_resolution":  "Slide Rental Needed"
+                  }
+              ],
+    "distributor_comments":  "G2 sensor will not clear\r\r**Rental was picked up from Caliber 0620 (ticket 410947) and will be delivered to this center on 09/25/26.**",
+    "tags":  [
+                 "Automated"
+             ],
+    "group":  "Car-O-Liner Service",
+    "product":  "Car-O-Liner",
+    "extraction_notes":  [
+                             "PDF extraction diagnostics: read stored SORF form fields directly. These notes describe conversion, not comments or instructions in the PDF.",
+                             "Quantity, model, and return indicator have no dedicated fields on this SORF and remain null. Confirm before issuing is separate from Ready for Call Tag for Pickup.",
+                             "PDF ticket field was not updated: Unable to cast object of type \u0027PdfSharp.Pdf.Advanced.PdfReference\u0027 to type \u0027PdfSharp.Pdf.AcroForms.PdfAcroField\u0027."
+                         ],
+    "source_pdf":  "Source PDFs/20172F41F895DD7A556DF3C97053D64D29D6598FD11931633DCBCA69B714242B/SORF - Caliber 0555 - COT repair - G2 - RENTAL (4).pdf",
+    "source_pdf_name":  "SORF - Caliber 0555 - COT repair - G2 - RENTAL (4).pdf",
+    "ticket_pdf":  null
+}

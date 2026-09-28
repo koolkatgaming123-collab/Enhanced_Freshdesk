@@ -1,0 +1,69 @@
+{
+    "document_type":  "Credit/Return Request Form (CRRF) - Warranty",
+    "document_revision":  "COL-FH20-016 rev. 5.0 2025-04",
+    "distributor_name":  "EDI Finance",
+    "submitted_by":  "Noah Girtman",
+    "shop_name":  "EDI Finance",
+    "location":  "EDI Finance",
+    "submission_date":  "2026-08-27",
+    "request_reason":  "Warranty",
+    "install_date":  "2025-12-03",
+    "ready_for_pickup":  true,
+    "same_as_ship_to":  true,
+    "pickup_details":  {
+                           "company":  null,
+                           "attention":  null,
+                           "phone":  null,
+                           "address":  null,
+                           "city":  null,
+                           "state":  null,
+                           "postal_code":  null,
+                           "email":  null,
+                           "size":  "4.5\"x9.5\"x3.5\"",
+                           "weight":  "1 lb"
+                       },
+    "ship_to_details":  {
+                            "company":  "EDI Finance",
+                            "attention":  null,
+                            "phone":  "586-566-8870",
+                            "address":  "10099 Radiance Drive",
+                            "city":  "Fair Haven",
+                            "state":  "Michigan",
+                            "postal_code":  "48023",
+                            "email":  "brian@edi.biz",
+                            "size":  null,
+                            "weight":  null
+                        },
+    "original_order_invoice_or_po":  "24113",
+    "system_item_number":  "CAR49324",
+    "system_type_or_model":  "CTR9",
+    "system_serial_number":  "24G48374",
+    "items":  [
+                  {
+                      "reason_code":  "W",
+                      "item_number":  "CAR49324",
+                      "parent_or_kit_item_number":  null,
+                      "quantity":  1,
+                      "description":  "CTR9 Pump Kit - Water Cooler",
+                      "issue":  "Showing error",
+                      "requested_resolution":  "Replace",
+                      "determination":  null,
+                      "return_indicator":  null,
+                      "warehouse":  null
+                  }
+              ],
+    "distributor_comments":  "Installed 12/3/25, customer called back early August and said it was having the same error code.",
+    "reviewed_by":  "",
+    "determination_comments":  null,
+    "extraction_notes":  [
+                             "Pickup section marked same_as_ship_to; pickup address fields not separately populated.",
+                             "Requested resolution inferred from form value *Replace shown in item row.",
+                             "COL-only determination fields were not completed and are null."
+                         ],
+    "tags":  [
+                 "Automated"
+             ],
+    "group":  "Car-O-Liner Service",
+    "col_department":  "",
+    "product":  "Car-O-Liner"
+}

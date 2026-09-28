@@ -1,0 +1,70 @@
+{
+  "document_type": "Credit/Return Request Form (CRRF)",
+  "document_revision": "COL-FH20-016 rev. 5.0 2025-04",
+  "distributor_name": "Metropolitan COL",
+  "submitted_by": "Dan D",
+  "shop_name": "Metro COL",
+  "location": "Mahwah, NJ",
+  "submission_date": "08/18/2026",
+  "request_reason": "(W) Warranty",
+  "install_date": null,
+  "ready_for_pickup": true,
+  "same_as_ship_to": null,
+  "pickup_details": {
+    "company": null,
+    "attention": null,
+    "phone": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "postal_code": null,
+    "email": null,
+    "size": "6x6x6",
+    "weight": "2lbs"
+  },
+  "ship_to_details": {
+    "company": "Metropolitan Car-o-liner",
+    "attention": "Dan D",
+    "phone": "201-934-9787",
+    "address": "300 Rt 17 South Suite F",
+    "city": "Mahwah",
+    "state": "NJ",
+    "postal_code": "07430",
+    "email": "DanD@metrocol.com",
+    "size": null,
+    "weight": null
+  },
+  "original_order_invoice_or_po": "PO:7123  Inv:ARV/68680195",
+  "system_item_number": "48570",
+  "system_type_or_model": "CTR9 208v",
+  "system_serial_number": "45561EZA",
+  "items": [
+    {
+      "reason_code": "W",
+      "item_number": "48528",
+      "parent_or_kit_item_number": "49320",
+      "quantity": 1,
+      "description": "Hose yoke 500",
+      "issue": "Blockage and blown out",
+      "requested_resolution": "**Replace",
+      "determination": "No Return",
+      "return_indicator": null,
+      "warehouse": null
+    }
+  ],
+  "distributor_comments": "Hose had manufacturing defect causing coolant blockage and pump error. Dan verified, new unit that failed during QC.",
+  "reviewed_by": "Jeffrey A. Coppes",
+  "comments": "Approved - Item does not need to be returned to Car-O-Liner at this time however, item return could still be required. Hold all warrantied items for 30 days from approval date, before scrapping.",
+  "replacement_order_number": "1W0837381",
+  "ticket_number": "438022",
+  "extraction_notes": [
+    "Corrected extraction: populated values are stored in embedded PDF form fields and were missed in the previous extraction.",
+    "Shop Name & Location field: Metro COL Mahwah, NJ.",
+    "Review date: 8/20/2026.",
+    "Pickup address and install date are blank; Same as Ship To has no stored selection. Return indicator and warehouse remain at Select.",
+    "The revision also appears as COL-FH20-016 rev. 5 2025-04 in the footer."
+  ],
+  "source_pdf": "Source PDFs/DE6D24CFD57AA51495A252CC939491E5153184C20F506D3F2FD84390B81B4206/438022 - Warranty-New CTR9 500 Arm Hose.pdf",
+  "source_pdf_name": "438022 - Warranty-New CTR9 500 Arm Hose.pdf",
+  "ticket_pdf": "Ticket PDFs/DE6D24CFD57AA51495A252CC939491E5153184C20F506D3F2FD84390B81B4206/438022/438022 - Warranty-New CTR9 500 Arm Hose.pdf"
+}

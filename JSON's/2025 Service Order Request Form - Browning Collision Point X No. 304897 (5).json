@@ -1,0 +1,63 @@
+{
+    "document_type":  "Service Order Request Form (SORF)",
+    "document_revision":  "COL-F20-011 Rev 5 2025-04",
+    "distributor_name":  "Pacific Collision",
+    "submitted_by":  "Angie M.",
+    "distributor_contact_phone":  "562-490-2120",
+    "email":  "angie@crashtools.com",
+    "shop_name":  "Browning Collision",
+    "submission_date":  "2026-09-25",
+    "ticket_number":  "453204",
+    "install_date":  "2025-11-21",
+    "ready_for_pickup":  true,
+    "confirm_before_issuing":  true,
+    "same_as_ship_to":  true,
+    "pickup_details":  {
+                           "company":  "Pacific Collision Equipment Co.",
+                           "attention":  "Angie M.",
+                           "phone":  "562-490-2120",
+                           "address":  "2424 Brayton Ave",
+                           "city":  "Signal Hill",
+                           "state":  "CA",
+                           "postal_code":  "90755",
+                           "email":  "angie@crashtools.com"
+                       },
+    "ship_to_details":  {
+                            "company":  "Pacific Collision Equipment Co.",
+                            "attention":  "Angie M.",
+                            "phone":  "562-490-2120",
+                            "address":  "2424 Brayton Ave",
+                            "city":  "Signal Hill",
+                            "state":  "CA",
+                            "postal_code":  "90755"
+                        },
+    "collect_shipping":  true,
+    "carrier":  "UPS",
+    "collect_account":  "K627R1",
+    "system_item_number":  "CAR49281",
+    "system_serial_number":  "304897",
+    "items":  [
+                  {
+                      "item_number":  "CAR49281",
+                      "parent_or_kit_item_number":  "CAR49281",
+                      "description":  "Point X Spare Part",
+                      "serial_number":  "304897",
+                      "install_date":  "2025-11-21",
+                      "issue":  "Key pad not working unit not turning on.  \r\rPlease provide estimate before any repairs are made."
+                  }
+              ],
+    "distributor_comments":  "Key pad not working unit not turning on.  \r\rPlease provide estimate before any repairs are made.",
+    "tags":  [
+                 "Automated"
+             ],
+    "group":  "Car-O-Liner Service",
+    "product":  "Car-O-Liner",
+    "extraction_notes":  [
+                             "PDF extraction diagnostics: read stored SORF form fields directly. These notes describe conversion, not comments or instructions in the PDF.",
+                             "Quantity, model, and return indicator have no dedicated fields on this SORF and remain null. Confirm before issuing is separate from Ready for Call Tag for Pickup.",
+                             "PDF ticket field was not updated: Unable to cast object of type \u0027PdfSharp.Pdf.Advanced.PdfReference\u0027 to type \u0027PdfSharp.Pdf.AcroForms.PdfAcroField\u0027."
+                         ],
+    "source_pdf":  "Source PDFs/7A07B1C26DE6C7E3514ACFA20A3C79FD794A83864EDEBF2076085DD21952B7F0/2025 Service Order Request Form - Browning Collision Point X No. 304897 (5).pdf",
+    "source_pdf_name":  "2025 Service Order Request Form - Browning Collision Point X No. 304897 (5).pdf",
+    "ticket_pdf":  null
+}
